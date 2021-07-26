@@ -11,7 +11,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 - Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
 
 <a href="https://github.com/viniciusac92/viniciusac92">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusac92" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusac92&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Vinicius's GitHub Stats" />
 </a>
 
 
