@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Me interessei pela área de TI porque gosto de resolver problemas através do raciocínio lógico e de aprender coisas novas. Tento trazer um clima leve para a equipe e soluções simples para desafios complexos.
+
 <!--
 **viniciusac92/viniciusac92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
