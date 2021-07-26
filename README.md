@@ -10,7 +10,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 - Linux
 - Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusac92&layout=compact)](https://github.com/viniciusac92/github-readme-stats)
+
 
 
 
