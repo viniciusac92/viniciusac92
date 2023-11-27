@@ -6,6 +6,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 
 ### Principais competências
 
+- Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
 - Desenvolvimento em Javascript, Express JS e Puppeteer (Single-Page Application Crawl) - Node JS
 - Modelagem de Bancos Relacionais e utilização de ORM: PostgreSQL, MySQL, SQLite3
 - Desenvolvimento em PHP (7.2+) , Yii2 Framework
@@ -17,7 +18,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 - Experiência com ambiente AWS - CloudWatch (Logs), SQS (filas), instância EC2 (Linux) e RDS (PostgreSQL)
 - HTML5, CSS3, JavaScript (ES6+), React JS
 - Python, Jinja e Flask
-- Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
+
 
 
 
