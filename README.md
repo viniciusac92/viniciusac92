@@ -11,6 +11,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 - Modelagem de Bancos Relacionais e utilização de ORM: PostgreSQL, MySQL, SQLite3
 - Desenvolvimento em PHP (7.2+) , Yii2 Framework
 - Manuseio de Servidores: Apache, Nginx (ambiente Linux)
+- Message Brokers: utilização do RabbitMQ para comunicação entre componentes do sistema
 - Docker: container's de projetos (PHP e Node JS) em desenvolvimento e testes
 - GIT
 - 🖥️ Linux
