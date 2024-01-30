@@ -7,6 +7,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 ### Principais competências
 
 - Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
+- Desenvolvimento em Python(3.8+), fastAPI, Flask e Django 
 - Desenvolvimento em Javascript, Express JS e Puppeteer (Single-Page Application Crawl) - Node JS / Typescript
 - Modelagem de Bancos Relacionais e utilização de ORM: PostgreSQL, MySQL, SQLite3
 - Desenvolvimento em PHP (7.2+) , Yii2 Framework
@@ -18,7 +19,7 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 - 🖥️ Linux
 - Desenvolvimento de integrações de API's REST | Experiência com API SOAP
 - HTML5, CSS3, JavaScript (ES6+), React JS
-- Python, Jinja e Flask
+
 
 
 
