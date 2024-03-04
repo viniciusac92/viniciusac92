@@ -7,10 +7,10 @@ Me interessei pela área de TI porque gosto de resolver problemas através do ra
 ### Principais competências
 
 - Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
+- Desenvolvimento em PHP (7.2+) , Yii2 Framework
 - Desenvolvimento em Python(3.8+), fastAPI, Flask e Django 
 - Desenvolvimento em Javascript, Express JS e Puppeteer (Single-Page Application Crawl) - Node JS / Typescript
 - Modelagem de Bancos Relacionais e utilização de ORM: PostgreSQL, MySQL, SQLite3
-- Desenvolvimento em PHP (7.2+) , Yii2 Framework
 - Experiência com ambiente AWS - CloudWatch (Logs), SQS (filas), instância EC2 (Linux) e RDS (PostgreSQL)
 - Manuseio de Servidores: Apache, Nginx (ambiente Linux)
 - Message Brokers: utilização do RabbitMQ para comunicação entre componentes do sistema
