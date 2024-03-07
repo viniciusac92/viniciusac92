@@ -12,7 +12,7 @@ _I became interested in the field of IT because I enjoy solving problems through
 
 ### Principais competências
 
-- Metodologias ágeis:  Scrum, Feature Driven-Development (FDD)
+- Metodologias ágeis:  Scrum, Kanban, Feature Driven-Development (FDD)
 - Desenvolvimento em PHP (7.2+) , Yii2 Framework
 - Desenvolvimento em Python(3.8+), fastAPI, Flask e Django 
 - Desenvolvimento em Javascript, Express JS e Puppeteer (Single-Page Application Crawl) - Node JS / Typescript
@@ -28,7 +28,7 @@ _I became interested in the field of IT because I enjoy solving problems through
 
 ### _Key Competencies_
 
-- _Agile Methodologies: Scrum, Feature Driven-Development (FDD)_
+- _Agile Methodologies: Scrum, Kanban, Feature Driven-Development (FDD)_
 - _PHP Development (7.2+), Yii2 Framework_
 - _Python Development (3.8+), fastAPI, Flask, and Django_
 - _JavaScript Development, Express JS, and Puppeteer (Single-Page Application Crawl) - Node JS / Typescript_
