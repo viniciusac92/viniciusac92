@@ -28,17 +28,16 @@ _I became interested in the field of IT because I enjoy solving problems through
 
 ### _Key Competencies_
 
-_- Agile Methodologies: Scrum, Feature Driven-Development (FDD)
-- PHP Development (7.2+), Yii2 Framework
-- Python Development (3.8+), fastAPI, Flask, and Django
-- JavaScript Development, Express JS, and Puppeteer (Single-Page Application Crawl) - Node JS / Typescript
-- Relational Database Modeling and ORM usage: PostgreSQL, MySQL, SQLite3
-- Experience with AWS environment - CloudWatch (Logs), SQS (Queues), EC2 instance (Linux), and RDS (PostgreSQL)
-- Server Handling: Apache, Nginx (Linux environment)
-- Message Brokers: Utilizing RabbitMQ for communication between system components
-- Docker: Containers for project development and testing (PHP and Node JS)
-- GIT
-- 🖥️ Linux
-- Development of REST API integrations | Experience with SOAP APIs
-- HTML5, CSS3, JavaScript (ES6+), React JS
-_
+- _Agile Methodologies: Scrum, Feature Driven-Development (FDD)_
+- _PHP Development (7.2+), Yii2 Framework_
+- _Python Development (3.8+), fastAPI, Flask, and Django_
+- _JavaScript Development, Express JS, and Puppeteer (Single-Page Application Crawl) - Node JS / Typescript_
+- _Relational Database Modeling and ORM usage: PostgreSQL, MySQL, SQLite3_
+- _Experience with AWS environment - CloudWatch (Logs), SQS (Queues), EC2 instance (Linux), and RDS (PostgreSQL)_
+- _Server Handling: Apache, Nginx (Linux environment)_
+- _Message Brokers: Utilizing RabbitMQ for communication between system components_
+- _Docker: Containers for project development and testing (PHP and Node JS)_
+- _GIT_
+- 🖥️ _Linux_
+- _Development of REST API integrations | Experience with SOAP APIs_
+- _HTML5, CSS3, JavaScript (ES6+), React JS_
