@@ -13,6 +13,8 @@ _I became interested in the field of IT because I enjoy solving problems through
 ### Principais competências
 
 - Metodologias ágeis:  Scrum, Kanban, Feature Driven-Development (FDD)
+- Experiência com orientação a objetos (OOP): sólido entendimento de conceitos como encapsulamento, herança, polimorfismo e abstração, para aplicação prática em projetos de software
+- Desenvolvimento em Java
 - Desenvolvimento em PHP (7.2+) , Yii2 Framework
 - Desenvolvimento em Python(3.8+), fastAPI, Flask e Django 
 - Desenvolvimento em Javascript, Express JS e Puppeteer (Single-Page Application Crawl) - Node JS / Typescript
@@ -29,6 +31,8 @@ _I became interested in the field of IT because I enjoy solving problems through
 ### _Key Competencies_
 
 - _Agile Methodologies: Scrum, Kanban, Feature Driven-Development (FDD)_
+- _Experience with Object-Oriented Programming (OOP): Solid understanding of concepts such as encapsulation, inheritance, polymorphism, and abstraction, for practical application in software projects_
+- _Java Development_
 - _PHP Development (7.2+), Yii2 Framework_
 - _Python Development (3.8+), fastAPI, Flask, and Django_
 - _JavaScript Development, Express JS, and Puppeteer (Single-Page Application Crawl) - Node JS / Typescript_
